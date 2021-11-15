@@ -9,6 +9,8 @@ let data=null;
 let dataIsNullish= data ?? true;
 ```
 ## Smart checking of elements attributes
+<a href="https://github.com/eugenesang/JsBasics/blob/main/attr_smart_check.js"> attr_smart_check.js</a>
+
 sometimes mistakes occur and we try to use attributes of an object that are not available
 
 to avoid this we use a ` ?` before the dot operator
