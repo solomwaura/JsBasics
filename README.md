@@ -8,6 +8,7 @@ if it is any of these it evaluates to false and moves to the next instruction
 let data=null;
 let dataIsNullish= data ?? true;
 ```
+more examples -> <a href="https://github.com/eugenesang/JsBasics/blob/main/nullish_coalecing.js">nullish_coalecing.js</a>
 ## Smart checking of elements attributes
 sometimes mistakes occur and we try to use attributes of an object that are not available
 
