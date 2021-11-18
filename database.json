@@ -1,0 +1,33 @@
+{
+    "smartPhones": [{
+            "name": "Galaxy s21 ultra",
+            "brand": "Samsung",
+            "dimensions": 6.9,
+            "price": 140000
+        },
+        {
+            "name": "Pixel 5 pro",
+            "brand": "Google",
+            "dimensions": 6.7,
+            "price": 90000
+        },
+        {
+            "name": "Iphone 13 pro Max",
+            "brand": "Apple",
+            "dimensions": 6.7,
+            "price": 100000
+        },
+        {
+            "name": "mi 10 ultra",
+            "brand": "Xiaomi",
+            "dimensions": 6.9,
+            "price": 95000
+        },
+        {
+            "name": "Xperia Pro-1",
+            "brand": "Sony",
+            "dimensions": 6.5,
+            "price": 180000
+        }
+    ]
+}
